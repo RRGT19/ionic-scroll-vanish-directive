@@ -1,0 +1,1 @@
+# ionic-scroll-vanish-directive
